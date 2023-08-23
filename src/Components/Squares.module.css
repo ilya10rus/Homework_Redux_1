@@ -1,0 +1,10 @@
+.Square {
+	width: 100px;
+	height: 100px;
+	background: #fff;
+	cursor: pointer;
+	outline: none;
+	font-size: 50px;
+	justify-content: center;
+	align-items: center;
+}
